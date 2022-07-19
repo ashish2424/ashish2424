@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 🌱 I'm currently learning <strong>Data Analytics and Machine Learning </strong> From <a href="https://imarticus.org/"  target="_blank">Imarticus</a>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ashish-singh-24b2a71a3/" target="_blank">Ashish Singh</a>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashish2424&theme=tokyonight)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ashish2424&show_icons=true &theme=tokyonight" alt="Ashish Singh">
-</p>
+
