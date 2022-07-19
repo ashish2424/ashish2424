@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **ashish2424/ashish2424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### <h1 align="center">Hi There, I am Ashish Singh 👋</h1>
+- 🔭 Intrested in <strong> Data Science</strong>
+- 🌱 I'm currently learning <strong>Data Analytics and Machine Learning </strong> From <a href="https://imarticus.org/"  target="_blank">Imarticus</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/ashish-singh-24b2a71a3/" target="_blank">Ashish Singh</a>
+
+<p align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashish2424&theme=tokyonight)
+</p>
