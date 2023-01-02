@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 ### <h1 align="center">Hi There, I am Ashish Singh 👋</h1>
 - 🔭 Intrested in <strong> Data Science</strong>
 - 🌱 I'm currently learning <strong>Data Analytics and Machine Learning </strong> From <a href="https://imarticus.org/"  target="_blank">Imarticus</a>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/ashish-singh-24b2a71a3/" target="_blank">Ashish Singh</a>
-
+- 📫 How to reach me:
+    ![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fashishs2351)
+   
 <p align="Center">
 <img src = "https://github-readme-stats.vercel.app/api?username=ashish2424&theme=tokyonight"
 </p>
